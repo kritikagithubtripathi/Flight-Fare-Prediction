@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 appdirs
 certifi
 click
@@ -18,4 +19,26 @@ scipy
 six
 virtualenv
 Werkzeug
+=======
+appdirs
+certifi
+click
+distlib
+Flask
+Flask-Cors
+gunicorn
+itsdangerous
+Jinja2
+joblib
+MarkupSafe
+numpy
+pandas
+python-dateutil
+pytz
+scikit-learn
+scipy
+six
+virtualenv
+Werkzeug
+>>>>>>> 84e2e5b91f0ea71362c7be2f6652dc1cbbb8c10d
 wincertstore

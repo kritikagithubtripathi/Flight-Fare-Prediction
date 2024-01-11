@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #e1f4f3;
     text-align: center;
@@ -13,4 +14,21 @@ a {
 
 a:hover {
     color: #f0f0f0;
+=======
+body {
+    background-color: #e1f4f3;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+>>>>>>> 84e2e5b91f0ea71362c7be2f6652dc1cbbb8c10d
   }
