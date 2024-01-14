@@ -15,6 +15,7 @@
 
 ## Demo
 Visit the [Flight Fare Prediction](https://flight-fare-prediction-meuy.onrender.com) web app.
+![App Screenshot](https://github.com/kritikagithubtripathi/Flight-Fare-Prediction/blob/main/ScreenShot/Screenshot%201.png)
 
 ## Overview
 This Flask web app predicts flight ticket fares, providing users with a user-friendly interface and real-time predictions.
@@ -46,6 +47,7 @@ Ensure you have [Python 3.6.10](https://www.python.org/downloads/) installed. Up
 ```
 
 ## Deployment on Render
+![App ScreenShot](https://github.com/kritikagithubtripathi/Flight-Fare-Prediction/blob/main/ScreenShot/Screenshot%202.png)
 1. Login or signup on Render.
 2. Connect your GitHub profile or download ctl for manual deployment.
 3. Follow the Render Documentation to deploy the web app.
